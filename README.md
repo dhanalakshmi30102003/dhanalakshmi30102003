@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanalakshmi
 - 👀 I’m interested in media,front end,python,c,communication.
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning frontend,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
